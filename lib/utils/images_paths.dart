@@ -1,0 +1,29 @@
+class Imagespath{
+static String img1="assets/images/on1.png";
+static String img2="assets/images/on2.png";
+static String img3="assets/images/on3.png";
+static String img4="assets/images/on4.png";
+static String img5="assets/images/lo1.png";
+static String line="assets/images/Line.png";
+static String icon1="assets/images/ico1.png";
+static String back="assets/images/base1.png";
+static String speaker="assets/images/sp1.png";
+static String headphones="assets/images/head.png";
+static String menu3="assets/images/menu3.png";
+static String back1="assets/images/bg1.png";
+static String beo1="assets/images/beo1.png";
+static String pr1="assets/images/pr1.png";
+static String opt1="assets/images/opt1.png";
+static String arr1="assets/images/arr1.png";
+static String base2="assets/images/base2.png";
+static String speak2="assets/images/sp2.png";
+static String indi="assets/images/indi.png";
+static String price="assets/images/bar1.png";
+static String div1="assets/images/div.png";
+static String dp1="assets/images/dp.png";
+static String head2="assets/images/h1.png";
+static String dart1="assets/images/dart.png";
+static String p1="assets/images/pay.png";
+static String sh1="assets/images/shape.png";
+static String sh2="assets/images/cshape.png";
+}
